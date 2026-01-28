@@ -19,7 +19,8 @@ B.E. in Software Engineering
 
 ## 🔍 Currently Working On
 
+Developing Python-based tools for Blender (personal exploration)
 
-
+<img src="img/pachi.GIF" width="420"/>
 
 📫 Feel free to explore my repositories or reach out if you'd like to collaborate.
