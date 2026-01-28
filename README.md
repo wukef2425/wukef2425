@@ -21,6 +21,10 @@ B.E. in Software Engineering
 
 Developing Python-based tools for Blender (personal exploration)
 
-<img src="img/pachi.GIF" width="420"/>
+<div>
+  <img src="img/pachi.GIF" width="420"/><br>
+  <sub>Asset used under CC Attribution (CC BY), original model by NeoT1 on Sketchfab.</sub>
+</div>
 
+##
 📫 Feel free to explore my repositories or reach out if you'd like to collaborate.
