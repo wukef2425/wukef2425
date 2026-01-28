@@ -1,12 +1,11 @@
 # Hi, I'm Kefei 👋
 
-I'm a Computer Science M.S. student at the University of California, Irvine, with a background in software engineering.
-
+I'm a Master of Computer Science student at the University of California, Irvine, with a background in software engineering.
 
 ## 🎓 Education
 
 **University of California, Irvine**  
-M.S. in Computer Science  
+Master of Computer Science (Expected Dec 2026)
 
 **Tongji University**  
 B.E. in Software Engineering  
