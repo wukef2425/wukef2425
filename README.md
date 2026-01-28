@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kefei 👋
 
-<!--
-**wukef2425/wukef2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science M.S. student at the University of California, Irvine, with a background in software engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**University of California, Irvine**  
+M.S. in Computer Science  
+
+**Tongji University**  
+B.E. in Software Engineering  
+
+## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukef2425&layout=compact" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=wukef2425" height="150"/>
+</div>
+
+## 🔍 Currently Working On
+
+
+
+
+📫 Feel free to explore my repositories or reach out if you'd like to collaborate.
