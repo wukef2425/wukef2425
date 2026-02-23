@@ -19,11 +19,5 @@ Developing Python-based tools for Blender (personal exploration)
   <sub>Asset used under CC Attribution (CC BY), original model by NeoT1 on Sketchfab.</sub>
 </div>
 
-
-## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukef2425&layout=compact" height="150"/>
-</div>
-
 ##
 📫 Feel free to explore my repositories or reach out if you'd like to collaborate.
