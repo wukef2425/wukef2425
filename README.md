@@ -1,6 +1,6 @@
 # Hi, I'm Kefei 👋
 
-I'm a Master of Computer Science student at the University of California, Irvine, with a background in software engineering.
+[Check out my GitHub Pages portfolio](https://wukef2425.github.io)
 
 ## 🎓 Education
 
